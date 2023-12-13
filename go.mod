@@ -69,6 +69,7 @@ require (
 	github.com/jmespath/go-jmespath v0.4.0 // indirect
 	github.com/oschwald/maxminddb-golang v1.11.0 // indirect
 	github.com/shoenig/go-m1cpu v0.1.6 // indirect
+	github.com/victorspringer/http-cache v0.0.0-20231006141456-6446fe59efba // indirect
 )
 
 require (
@@ -78,6 +79,7 @@ require (
 	github.com/yuin/goldmark-emoji v1.0.2
 	gopkg.in/evanphx/json-patch.v5 v5.7.0
 	mvdan.cc/xurls v1.1.0
+	mvdan.cc/xurls/v2 v2.5.0
 )
 
 replace github.com/go-fed/activity => github.com/owncast/activity v1.0.1-0.20211229051252-7821289d4026
